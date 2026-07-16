@@ -1,1 +1,1 @@
-Please click on [this](https://pea-mddrre1td2z.fra.002.sf.code-builder.platform.salesforce.com/stable-d7599ae360900ad55b503e3c840b417a1eae4798/vscode-remote-resource?path=/home/codebuilder/dx-project/xss.html)
+Please click on [this](https://pea-mddrre1td2z.fra.002.sf.code-builder.platform.salesforce.com/stable-d7599ae360900ad55b503e3c840b417a1eae4798/vscode-remote-resource?path=/home/codebuilder/dx-project/supreme-palm-tree/xss.html)
