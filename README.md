@@ -1,1 +1,1 @@
-Please click on [this](https://feijoa-t2jjzy8w.fra.002.sf.code-builder.platform.salesforce.com/stable-d7599ae360900ad55b503e3c840b417a1eae4798/vscode-remote-resource?path=/home/codebuilder/dx-project/supreme-palm-tree/xss.html)
+Please click on <a href="https://playground.blakl.is/cdsfxss.html" target="_blank">HERE</a>
