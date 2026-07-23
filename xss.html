@@ -54,6 +54,8 @@
       }
       
       function sendCommand(doc, cmd) {
+        hasTermWarning = doc.querySelector('.monaco-dialog-modal-block .monaco-text-button')
+        if(hasTermWarning) hasTermWarning.click();
         const ta = doc.querySelector('.terminal.xterm .xterm-helper-textarea')
                 || doc.querySelector('.xterm-helper-textarea');
         if (!ta) return console.warn('terminal introuvable');
